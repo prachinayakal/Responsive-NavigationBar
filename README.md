@@ -15,6 +15,6 @@ https://prachinayakal.github.io/Responsive-NavigationBar/
 ## Keywords
 Responsive, Navigationbar, HTML, CSS , Javascript
 
-## Licence
+## License
 
-I have used here MIT licence.
+I have used here MIT license.

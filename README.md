@@ -1,6 +1,6 @@
-# Project Title
+# Responsive Navigation Bar
 
-Brief description of the project.
+A Simple and responsive Navigation bar using HTML, CSS & Javascript.
 
 ## Table of Contents
 
@@ -14,14 +14,9 @@ Brief description of the project.
 
 Include a link to the live demo of your project, if available.
 
-## Features
+## Keywords
+Responsive, Navigationbar, HTML, CSS , Javascript
 
-- List key features of your project.
-- Highlight any unique functionalities or technologies used.
+## Licence
 
-## Installation
-
-Describe how to install or set up your project. Include any dependencies that need to be installed and how to install them.
-
-```bash
-npm install
+I have used here MIT licence.
